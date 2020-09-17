@@ -1,0 +1,41 @@
+.top-mid{
+	background-color: #999999;
+}
+
+.main-text h1{
+	margin-top: 60px;
+	font-size: 60px;
+	font-weight: 700;
+}
+
+.main-text p{
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.section-1{
+	background-image: url(./images/main.jpg);
+	background-size: cover;
+}
+
+.text1{
+	font-size: 40px;
+	font-weight: 700;
+}
+
+.text2,.text4{
+	font-size: 40px;
+	font-weight: 700;
+}
+
+.p1{
+	font-size: 18px;
+}
+
+.section-4 ul{
+	font-size: 18px;
+}
+
+ul{
+	list-style-type: none;
+}
